@@ -1,7 +1,5 @@
 'use strict';
 
-//#1
-
 const inputElement = document.getElementById('myInput'); 
 const paragraphElement = document.getElementById('myParagraph'); 
 
